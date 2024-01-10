@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Hello, I'm Pierre-Louis
 
-<!--
-**PierreLouisLetoquart/PierreLouisLetoquart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Enthusiastic learner, always exploring new technologies.
+- Believer in the power of open-source and collaboration.
+- Passionate about photography and climbing mountains.
 
-Here are some ideas to get you started:
+## 💼 Currently
+- Learning Software Engineering in Montréal, Canada.
+- Juggling various side projects...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm Learning
+- Exploring Rust to understand the borrow checker better.
+- Dabbling in some ML because it's just too cool.
+
+## 🔧 Skills
+- Proficient in exiting Vim with ease.
+- Skilled in resolving CORS errors.
+- Meticulous in reading documentation to create reliable programs.
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/pierre-louis-l%C3%A9toquart-b30b651b6/)
+
+## 🤝 Open for Collaboration
+- Eager to collaborate on innovative projects.
+- Let's build something amazing together!
+
+Thanks for visiting! 😊
