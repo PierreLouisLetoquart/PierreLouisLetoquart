@@ -13,16 +13,5 @@
 - Exploring Rust to understand the borrow checker better.
 - Dabbling in some ML because it's just too cool.
 
-## 🔧 Skills
-- Proficient in exiting Vim with ease.
-- Skilled in resolving CORS errors.
-- Meticulous in reading documentation to create reliable programs.
-
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/pierre-louis-l%C3%A9toquart-b30b651b6/)
-
-## 🤝 Open for Collaboration
-- Eager to collaborate on innovative projects.
-- Let's build something amazing together!
-
-Thanks for visiting! 😊
